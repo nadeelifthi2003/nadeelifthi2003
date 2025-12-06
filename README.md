@@ -1,7 +1,5 @@
 <!-- 🔥 Profile Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300/111111/00FFFF?text=Nadeel+Ameen+|+Software+Developer" alt="Banner"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Nadeel Ameen</h1>
 <h3 align="center">💻 Passionate Tech Enthusiast | Software Developer | Cloud & Mobile Explorer</h3>
