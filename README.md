@@ -1,7 +1,7 @@
 <!-- 🔥 Profile Banner -->
 
 
-<h1 align="center">Hi 👋, I'm Nadeel Ameen</h1>
+<h1 align="center">Hi 👋, I'm Nadeel Ifthika</h1>
 <h3 align="center">💻 Passionate Tech Enthusiast | Software Developer | Cloud & Mobile Explorer</h3>
 
 ---
