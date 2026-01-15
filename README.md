@@ -40,23 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nadeelifthi2003&theme=radical&hide_border=false" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeelifthi2003&theme=radical&hide_border=false" height="150"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeelifthi2003&theme=radical&layout=compact&hide_border=false" height="130"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nadeelifthi2003&theme=monokai&no-frame=false&margin-w=6"/>
-</p>
-
----
-
 ### ✍️ Quote of the Day
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"></p>
 
