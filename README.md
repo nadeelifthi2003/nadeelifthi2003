@@ -8,10 +8,9 @@
 
 ### 🚀 About Me  
 - 🌱 Currently learning **Cloud Development, API Testing & Flutter Mobile Apps**
-- 🔭 Working on **IoT Flood Warning System, PetMart, POS & Mobile Apps**
 - 👨‍💻 Passionate about **Web, Mobile & Desktop applications**
 - 💬 Ask me about **Flutter, APIs, Web Automation & Cloud**
-- 🤝 Looking to collaborate on **Open-source & Real-world projects**
+- 🤝 Looking to collaborate on **Open source & Real world projects**
 - ⚡ Fun fact: *I fix bugs that haunt other developers 👻*
 
 ---
